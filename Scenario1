@@ -1,0 +1,10 @@
+---
+DatabaseConfiguration: 
+ hostname: "localhost"
+ port: 3306
+ username: myuser
+ password: mypassword
+
+ApplicationSettings:
+ name: myapp
+ debugmode: true
