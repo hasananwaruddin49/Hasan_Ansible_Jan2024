@@ -1,0 +1,16 @@
+---
+Persons:
+ - name: User1
+   age: 30 years
+   address: 
+    street: Toronto
+    City: Toronto
+    Zip code: MFH35
+
+  - name: user2
+    age: 28 years
+    address: 
+     street: Toronto1
+     city: Toronto2
+     zipcode: M4H23
+---
